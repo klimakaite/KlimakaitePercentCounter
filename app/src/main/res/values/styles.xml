@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppName">
+        <item name="android:text">Percent Counter</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="vardasPavarde">
+        <item name="android:text">Paulina Klimakaitė</item>
+        <item name="android:textColor">#707070</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+    <style name="enterAmount">
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="percent">
+        <item name="android:text">0%</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:color">@color/black</item>
+    </style>
+    <style name="tip">
+        <item name="android:text">Tip</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:color">@color/black</item>
+    </style>
+    <style name="total">
+        <item name="android:text">Total</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:color">@color/black</item>
+    </style>
+    <style name="result">
+        <item name="android:text">Result</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">35sp</item>
+    </style>
+</resources>
